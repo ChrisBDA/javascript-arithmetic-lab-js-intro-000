@@ -1,3 +1,3 @@
 function add(){
-  console.log()
+  return add(a, b)
 }
